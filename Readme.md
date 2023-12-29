@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Pivot Grid for Web Forms - Custom Group Intervals
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128577020/)**
-<!-- run online end -->
 
 The following example implements custom group intervals in the Pivot Grid to group the _Product Name_ field values into three ranges: A-E, F-S, and T-Z (according to the initial characters of the product names). The following expression is used:
 
