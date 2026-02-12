@@ -27,7 +27,7 @@ The image below shows the result:
 
 [Pivot Grid for Web Forms - How to Group Date-Time Values](https://github.com/DevExpress-Examples/how-to-group-date-time-values-e1875)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-forms-pivot-grid-group-field-values-into-the-specified-intervals&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-forms-pivot-grid-group-field-values-into-the-specified-intervals&~~~was_helpful=no)
 
